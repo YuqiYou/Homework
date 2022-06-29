@@ -1,0 +1,15 @@
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\bin\Debug\net6.0\Understandingtypes.exe
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\bin\Debug\net6.0\Understandingtypes.deps.json
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\bin\Debug\net6.0\Understandingtypes.runtimeconfig.json
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\bin\Debug\net6.0\Understandingtypes.dll
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\bin\Debug\net6.0\Understandingtypes.pdb
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.csproj.AssemblyReference.cache
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.AssemblyInfoInputs.cache
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.AssemblyInfo.cs
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.csproj.CoreCompileInputs.cache
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.dll
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\refint\Understandingtypes.dll
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.pdb
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\Understandingtypes.genruntimeconfig.cache
+C:\Users\16263\source\repos\Understandingtypes\Understandingtypes\obj\Debug\net6.0\ref\Understandingtypes.dll
