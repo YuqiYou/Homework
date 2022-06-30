@@ -1,0 +1,15 @@
+C:\Users\16263\source\repos\PractString\PractString\bin\Debug\net6.0\PractString.exe
+C:\Users\16263\source\repos\PractString\PractString\bin\Debug\net6.0\PractString.deps.json
+C:\Users\16263\source\repos\PractString\PractString\bin\Debug\net6.0\PractString.runtimeconfig.json
+C:\Users\16263\source\repos\PractString\PractString\bin\Debug\net6.0\PractString.dll
+C:\Users\16263\source\repos\PractString\PractString\bin\Debug\net6.0\PractString.pdb
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.csproj.AssemblyReference.cache
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.AssemblyInfoInputs.cache
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.AssemblyInfo.cs
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.csproj.CoreCompileInputs.cache
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.dll
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\refint\PractString.dll
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.pdb
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\PractString.genruntimeconfig.cache
+C:\Users\16263\source\repos\PractString\PractString\obj\Debug\net6.0\ref\PractString.dll
