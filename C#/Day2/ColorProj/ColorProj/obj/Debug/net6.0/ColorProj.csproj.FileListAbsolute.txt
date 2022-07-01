@@ -1,0 +1,15 @@
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.csproj.AssemblyReference.cache
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.AssemblyInfoInputs.cache
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.AssemblyInfo.cs
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.csproj.CoreCompileInputs.cache
+C:\Users\16263\source\repos\ColorProj\ColorProj\bin\Debug\net6.0\ColorProj.exe
+C:\Users\16263\source\repos\ColorProj\ColorProj\bin\Debug\net6.0\ColorProj.deps.json
+C:\Users\16263\source\repos\ColorProj\ColorProj\bin\Debug\net6.0\ColorProj.runtimeconfig.json
+C:\Users\16263\source\repos\ColorProj\ColorProj\bin\Debug\net6.0\ColorProj.dll
+C:\Users\16263\source\repos\ColorProj\ColorProj\bin\Debug\net6.0\ColorProj.pdb
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.dll
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\refint\ColorProj.dll
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.pdb
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ColorProj.genruntimeconfig.cache
+C:\Users\16263\source\repos\ColorProj\ColorProj\obj\Debug\net6.0\ref\ColorProj.dll
